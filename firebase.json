@@ -1,11 +1,10 @@
 {
-    "hosting": {
-      "public": "Divine-Holdings--Pty-Ltd",
-      "ignore": [
-        "firebase.json",
-        "**/.*",
-        "**/node_modules/**"
-      ]
-    }
+  "hosting": {
+    "public": "PUBLIC",
+    "ignore": [
+      "firebase.json",
+      "**/.*",
+      "**/node_modules/**"
+    ]
   }
-  
+}

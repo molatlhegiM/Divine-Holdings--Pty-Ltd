@@ -1,6 +1,7 @@
 {
   "projects": {
-    "Divine": "divine-holdings-pty-ltd"
+    "Divine": "divine-holdings-pty-ltd",
+    "default": "divine-holdings-pty-ltd"
   },
   "targets": {},
   "etags": {}
